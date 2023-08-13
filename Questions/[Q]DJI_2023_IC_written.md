@@ -52,7 +52,7 @@ cache：用于存放CPU当前访问频繁的程序和数据、速度快、容量
 
 ​		*RAM（random access memory）* ：即电脑的内存条；
 
-​		*ROM（read only memory）：*用途比较少，电脑存放boot的地方，启动电脑时，先读rom中的内容，如bios系统，检测硬件是否正常。
+​		*ROM（read only memory）* ：用途比较少，电脑存放boot的地方，启动电脑时，先读rom中的内容，如bios系统，检测硬件是否正常。
 
 计算机的辅存：
 
